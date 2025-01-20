@@ -6,6 +6,10 @@ While most bank websites provide an example scenario in text, this tool aims to 
 
 In short, its a quick way to see how bad your returns can be before you receive a margin call. 
 
+On the plus side, a leveraged bet with 15% return will provide amplified returns, as seen below.
+
+![alt text](https://github.com/brian-w-smith/visual-leverage/blob/main/SS3.png)
+
 ### Controls
 
 - Starting Equity: The equity in your portfolio to use as collateral for the margin loan
