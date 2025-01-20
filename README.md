@@ -30,7 +30,7 @@ To install, create a virtual environment, then run `pip install -r requirements.
 Some lessons of the tool can be summarized quickly with screenshots, which are provided below: 
 
 1.  With a 50% margin to equity ratio, the worst return you can get is -25% before a margin call happens in a year
-
-
+![alt text](https://github.com/brian-w-smith/visual-leverage/blob/main/SS1.png)
 
 2.  However, with a 25% Margin to Equity ratio you can hold on for 33 months with a -25% annual return
+![alt text](https://github.com/brian-w-smith/visual-leverage/blob/main/SS2.png)
